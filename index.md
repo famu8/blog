@@ -1,4 +1,3 @@
-## About Me  
 Hi, I'm **Fernando Marina Urriola**, a Biomedical Engineer and AI enthusiast currently pursuing my Master's at DTU in Denmark. I’m passionate about solving challenges, exploring new technologies, and sharing ideas that inspire creativity and growth.
 
 ---
