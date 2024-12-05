@@ -6,6 +6,8 @@ minima:
     linkedin: "https://www.linkedin.com/in/fernandomarinaurriola/"
 
 author:
+feed:
+  enabled: false
 
 title: "famu8 blog"
 description: "Sharing projects, reflections, and ideas"
