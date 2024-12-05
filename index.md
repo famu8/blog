@@ -1,8 +1,3 @@
----
-layout: default
-title: Welcome to My Blog
----
-
 # Welcome to My Blog
 
 Hello and welcome! 
