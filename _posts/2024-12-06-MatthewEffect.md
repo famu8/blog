@@ -1,4 +1,7 @@
-# The Matthew Effect: Success Breeds Success 📈
+---
+title: "The Matthew Effect: Success Breeds Success 📈"
+date: 2024-12-06
+---
 
 This last week I find myself reading this wonderful book by Taleb, and one of the learnings I have recently obtained is about this incredible and silent effect, 
 in this post I want to share my relfections and encourage the reader to read more about the effect or other essays by the author.
