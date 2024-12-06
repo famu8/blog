@@ -7,7 +7,7 @@ date: 2024-12-06
       <p><em>Image credits: <a href="https://www.lynx.be/beurs/beurs-koersen/beursinfo/beursgoeroes/nassim-nicholas-taleb/">Lynx</a></em></p>
 
 <div style="text-align: center;">
-    <img src="../images/talebPortrait.jpg" alt="Taleb Portrait" width="300"/>
+    <img src="/images/talebPortrait.jpg" alt="Taleb Portrait" width="300"/>
 </div>
 
 *"For to every one who has, more will be given, and he will have abundance; but from him who has not, even what he has will be taken away."*
