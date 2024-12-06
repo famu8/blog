@@ -3,11 +3,7 @@ title: "The Matthew Effect: Success Breeds Success 📈"
 date: 2024-12-06
 ---
 
-
-![Taleb Portrait](/images/talebPortrait.jpg){: style="width:300px; display:block; margin:auto;" }
-
-
-*"For to every one who has, more will be given, and he will have abundance; but from him who has not, even what he has will be taken away."*
+***"For to every one who has, more will be given, and he will have abundance; but from him who has not, even what he has will be taken away."***
 
 This last week I find myself reading this wonderful book by Taleb, and one of the learnings I have recently obtained is about this incredible and silent effect, 
 in this post I want to share my relfections and encourage the reader to read more about the effect or other essays by the author.
