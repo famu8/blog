@@ -7,7 +7,7 @@ Hi, I'm **Fernando Marina Urriola**, a Biomedical Engineer and AI enthusiast cur
 This is my personal space where I share:  
 - My **projects** 🛠️ — From experiments to engineering marvels.  
 - Personal **reflections** 💭 — Insights into my journey and lessons learned.  
-- Creative **ideas** 🌟 — Anything that sparks curiosity and innovation.
+- Creative **ideas** — Anything that sparks curiosity and innovation.
 
 I hope this blog serves as a source of inspiration, learning, and connection.  
 
