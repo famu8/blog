@@ -18,6 +18,6 @@ I hope this blog serves as a source of inspiration, learning, and connection.
 Feel free to reach out!  
 - 💼 [LinkedIn](https://www.linkedin.com/in/fernandomarinaurriola/)  
 - 🖥️ [GitHub](https://github.com/famu8)  
-- 📧 Email: [s233144@dtu.dk](mailto:s233144@dtu.dk)  
+- 📧 Email: [fernandomarinaurriola@gmail.com](mailto:fernandomarinaurriola@gmail.com)  
 
 ---
