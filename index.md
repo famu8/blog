@@ -19,7 +19,7 @@ Feel free to reach out!
 - 💼 [LinkedIn](https://www.linkedin.com/in/fernandomarinaurriola/)  
 - 🖥️ [GitHub](https://github.com/famu8)  
 - 📧 Email: [fernandomarinaurriola@gmail.com](mailto:fernandomarinaurriola@gmail.com)  
-- This is my goodreads profile [Goodreads](https://www.goodreads.com/user/show/184166972-famu8)
+- This is my [Goodreads](https://www.goodreads.com/user/show/184166972-famu8) profile
 
 
 ---
