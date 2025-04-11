@@ -11,7 +11,6 @@ This is my personal space where I share:
 
 I hope this blog serves as a source of inspiration, learning, and connection.  
 
-This is my goodreads profile [Goodreads](https://www.goodreads.com/user/show/184166972-famu8)
 ---
 
 ## Connect With Me  
@@ -20,5 +19,7 @@ Feel free to reach out!
 - 💼 [LinkedIn](https://www.linkedin.com/in/fernandomarinaurriola/)  
 - 🖥️ [GitHub](https://github.com/famu8)  
 - 📧 Email: [fernandomarinaurriola@gmail.com](mailto:fernandomarinaurriola@gmail.com)  
+- This is my goodreads profile [Goodreads](https://www.goodreads.com/user/show/184166972-famu8)
+
 
 ---
